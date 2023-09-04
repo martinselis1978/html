@@ -1,0 +1,32 @@
+body{
+    background-color:turquoise;
+}
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: #090961cb;
+    text-align: left;
+}
+
+a:link{
+    color: #cc0000;
+}
+
+a:hover{
+    background-color: #cc0000;
+    color: #fff;
+}
+
+a:active{
+    color: black;
+}

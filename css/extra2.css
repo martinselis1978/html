@@ -1,0 +1,35 @@
+table{
+    margin: 5%;
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding: auto;
+}
+
+table tbody tr:nth-child(odd){
+    background: yellow;
+}
+
+table tbody tr:nth-child(even){
+    background: transparent;
+}
+
+tbody td, tbody th{
+    padding: 5px;
+    border: 1px solid black;
+}
+
+#img{
+    width: 12px;
+    padding-right: 5px;
+}
+
+#encabezado{
+    background-color: lightgray;
+}
+
+#xxx{
+    text-align: left;
+    width: 100px;
+    background-color: aquamarine;
+}

@@ -1,0 +1,30 @@
+.viñetas {
+    padding: 1rem;
+    list-style-type: none;
+  }
+  
+.viñetas li {
+    padding-left: 1.5rem;
+    background-image: url(../img/flecha.png);
+    background-position: 0 0;
+    background-size: 1rem 1rem;
+    background-repeat: no-repeat;
+}
+
+.menu{
+    list-style: none;
+    margin: 0;
+    padding: 10px;
+    width: 250px;
+    border: 1px solid #7C7C7C;
+    text-align: center;
+}
+
+.menu li{
+    background: #F4F4F4;
+    border: 1px solid #7C7C7C;
+    display: inline; /* línea fundamental de para poner en linea-*/
+    padding: .2em .2em .2em .2em;
+    text-decoration: none;
+    text-align: center;
+}

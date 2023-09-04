@@ -1,0 +1,80 @@
+h1{
+    color:darkcyan;
+}
+
+.tabla{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.tabla th, .tabla td{
+    border: 1px solid black;
+}
+
+#redStrong{
+    color:red;
+}
+
+#yellowStrong{
+    color:orange;
+}
+
+h2{
+    color:blue;
+}
+
+u{
+    color:red;
+}
+
+#blueI{
+    color:blue;
+}
+
+#p3{
+    color:olive;
+}
+
+#pinkSpan{
+    color:palevioletred;
+}
+
+#f1{
+    color:orange;
+}
+
+#f2{
+    color:red;
+}
+
+#fila3{
+    color: red;
+}
+
+thead{
+    color:orange;
+}
+
+#orangeStrong{
+    color:orange;
+}
+
+#greenU{
+    color: green;
+}
+
+#purpleSpan{
+    color:purple;
+}
+
+caption{
+    color: blue;
+}
+
+thead{
+    color:orange;
+}
+
+tbody{
+    color: green;
+}
